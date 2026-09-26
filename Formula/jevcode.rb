@@ -2,8 +2,8 @@
 class Jevcode < Formula
   desc "Terminal coding agent that edits your code and verifies it with your tests"
   homepage "https://github.com/coasty-ai/JevCode"
-  url "https://registry.npmjs.org/@coasty/jevcode/-/jevcode-0.7.0.tgz"
-  sha256 "cc6d3a80c77ecb94ad1bd09c26c7cefabdb368fec256fa8c1c8e832c9ee62b3b"
+  url "https://registry.npmjs.org/@coasty/jevcode/-/jevcode-0.8.0.tgz"
+  sha256 "cb913d33b64ad48625fa31ee9a22ad822ae4d8f56f6d4bfbf36b9a8c25125af4"
   license "MIT"
 
   depends_on "node"
